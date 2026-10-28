@@ -12,6 +12,4 @@ Extraction Code: sgha
 
 Code Availability
 
-The associated paper, "HMFormer: A Multi-Scale Hybrid Matching Transformer for UAV-Based Road Traffic Object Detection," is currently under review.
-
-The source code and implementation details will be made publicly available upon acceptance of the paper.
+The associated paper  is currently under review.The source code and implementation details will be made publicly available upon acceptance of the paper.
